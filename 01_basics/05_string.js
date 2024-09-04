@@ -27,6 +27,8 @@ console.log(newStringOne.trim());
 
 const url = "https://amazon.com/hitesh%20choudhary"
 console.log(url.replace('%20', '-' ))
+console.log(url.replace('%20', '**' ))
+console.log(url.replace('%20', '@' ))
 
 console.log(url.includes('anuj'))
 console.log(url.includes('ankur'))
