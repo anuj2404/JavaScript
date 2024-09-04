@@ -34,3 +34,4 @@ console.log(url.includes('anuj'))
 console.log(url.includes('ankur'))
 
 console.log(gameName.split('-'))
+console.log(gameName.split('@'))
