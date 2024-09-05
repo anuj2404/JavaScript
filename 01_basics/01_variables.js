@@ -18,3 +18,5 @@ because of issue in block scope and functional scope
 */
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+
+//JavaScript variables are containers for storing data values. Variables can be declared using the 'var' keyword.
