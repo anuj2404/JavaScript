@@ -47,3 +47,5 @@ let str3 = str1 + str2
 
 console.log(+true);
 console.log(+"")
+
+//Type conversion in JavaScript is an algorithm that allows us to manipulate the function's data types from one to another.
