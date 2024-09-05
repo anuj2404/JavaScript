@@ -35,3 +35,5 @@ console.log(url.includes('ankur'))
 
 console.log(gameName.split('-'))
 console.log(gameName.split('@'))
+
+//A string is a sequence of one or more characters that may consist of letters, numbers, or symbols.
