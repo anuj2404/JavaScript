@@ -27,6 +27,7 @@ let myObj ={
 
 const myFunction = function(){
     console.log("Hello World")
+    console.log("Anuj Gupta")
 }
 
 console.log(typeof heros);
