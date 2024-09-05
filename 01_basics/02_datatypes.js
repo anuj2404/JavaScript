@@ -15,3 +15,5 @@ console.log(3
 //symbol => unique
 
 //object
+
+//A data type is a collection of data values that have a specific format and characteristics
