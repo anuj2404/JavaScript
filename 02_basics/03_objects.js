@@ -17,12 +17,27 @@ const JsUser = {
     lastLoginDays: ["Monday", "Saturday"]
 }
 
-console.log(JsUser.email);
-console.log(JsUser["email"]);
-console.log(JsUser["full name"]);
-console.log(JsUser[mySym]); //symbol ka use square bracket ke andar karenge
+// console.log(JsUser.email);
+// console.log(JsUser["email"]);
+// console.log(JsUser["full name"]);
+// console.log(JsUser[mySym]); //symbol ka use square bracket ke andar karenge
+
+// JsUser.email = "anujgupta@gmail.com"
+// Object.freeze(JsUser)
+// JsUser.email = "anujgupta@yahoo.com"
+// console.log(JsUser);
 
 
+JsUser.greeting = function(){
+    console.log("Hello JS User");
+    
+}
+
+JsUser.greetingTwo = function(){
+    console.log(`Hello JS User, ${this.name}`);
+    
+} // jab bhi hame same object ko reference karna hai toh "this" ka use karenge
 
 
-
+console.log(JsUser.greeting());
+console.log(JsUser.greetingTwo());
