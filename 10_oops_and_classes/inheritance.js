@@ -29,3 +29,5 @@ const masalaChai = new User("masalaChai")
 masalaChai.logMe()
 
 console.log(chai instanceof User);
+
+//Inheritance is a mechanism where one class (child class) inherits properties and behaviors (methods) from another class (parent class).
