@@ -37,3 +37,6 @@ console.log(gameName.split('-'))
 console.log(gameName.split('@'))
 
 //A string is a sequence of one or more characters that may consist of letters, numbers, or symbols.
+// What is String in JavaScript?
+// JavaScript String is a sequence of characters, typically used to represent text. It is enclosed in single or double quotes and supports various methods for text manipulation.
+
