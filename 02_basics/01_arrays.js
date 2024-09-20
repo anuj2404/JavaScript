@@ -38,3 +38,7 @@ const myn2 = myArr.splice(1, 3)
 // console.log("C", myArr);
 // console.log(myn2);
 
+//Array: A data structure in JavaScript that allows you to store multiple values in a single variable.
+// Array Element: Each value within an array is called an element. Elements are accessed by their index.
+// Array Index: A numeric representation that indicates the position of an element in the array. JavaScript arrays are zero-indexed, meaning the first element is at index 0.
+// Array Length: The number of elements in an array. It can be retrieved using the length property.
