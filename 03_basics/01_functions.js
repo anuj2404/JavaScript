@@ -64,3 +64,10 @@ function returnSecondValue(getArray){
     return getArray[1]
 }
 console.log(returnSecondValue(myNewArray));
+
+
+// Why Functions?
+// Functions can be used multiple times, reducing redundancy.
+// Break down complex problems into manageable pieces.
+// Manage complexity by hiding implementation details.
+// Can call themselves to solve problems recursively.
